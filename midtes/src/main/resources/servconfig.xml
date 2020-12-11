@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <ipaddress>192.168.1.134</ipaddress>
+    <serport>9805</serport>
+    <clientport>8076</clientport>
+</config>
